@@ -24,3 +24,20 @@ num_2 = 3
 # ^ - Centro
 # print(f'{num_1:0^10}')
 
+# String indices
+# positivos[012345678]
+texto = 'Python s2'
+# print( texto[2] )
+# texto = len(texto)
+# negativos -[987654321]
+
+# nova_string = texto[0::2]
+# nova_string = texto[-9:-5]
+print(nova_string)
+
+# Fatiamento de strings [inicio:fim:passo]
+
+# Funções built-in len, abs, type, print, etc...
+
+# Essas funções podem ser usadas diretamnte em cada tipo.
+
